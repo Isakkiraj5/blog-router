@@ -1,0 +1,34 @@
+
+.active-link {
+  border-bottom: 2px solid green; 
+  color: green; 
+}
+
+.card{
+  padding: 10px;
+  align-items: center;
+  min-height: 375px;
+}
+
+h6{
+  font-size: 14px;
+  text-align: center;
+}
+
+img{
+  border-radius: 5px;
+}
+
+p{
+  text-align: center;
+}
+
+.header{
+  height: 50px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-bottom: 1rem;
+    border-bottom: 1px solid #ccc;
+    align-items: center;
+}
